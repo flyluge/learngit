@@ -6,3 +6,4 @@ $ cd learngit		进入文件夹
 $ pwd				显示当前目录全路径
 new change
 new change2
+new change3
